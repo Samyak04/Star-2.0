@@ -1,6 +1,6 @@
 {
-    "name": "Star",
-    "description": "Maintained Fork of Void",
+    "name": "Sam",
+    "description": "maintened sam bot",
     "keywords": [
         "bot",
         "whatsapp",
@@ -12,7 +12,7 @@
         "whatsapp-botto"
     ],
     "website": "https://github.com/Nakshatra4762/Star-2.0/blob/main/README.md",
-    "repository": "https://github.com/Nakshatra4762/Star-2.0.git",
+    "repository": "https://github.com/Samyak04/Star-2.0",
     "logo": "https://avatars.githubusercontent.com/u/87998363?s=400&u=9222f30efb406db418b25769db3a737748a14509&v=4",
     "success_url": "/",
     "env": {
